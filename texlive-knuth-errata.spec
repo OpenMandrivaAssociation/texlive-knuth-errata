@@ -1,6 +1,6 @@
 Name:		texlive-knuth-errata
 Version:	58682
-Release:	1
+Release:	2
 Summary:	Knuth's published errata
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/knuth-errata
